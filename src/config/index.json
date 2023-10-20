@@ -5,18 +5,15 @@
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Service",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Founders",
       "href": "features"
     },
 
-    {
-      "name": "Pricing",
-      "href": "pricing"
-    },
+ 
     {
       "name": "About",
       "href": "about"
